@@ -1,16 +1,17 @@
-### Hi there 👋
+<h1 align="center">Hi 👋, I'm Mahmoud Shiref</h1>
+<h3 align="center">Junior backend developer</h3>
+<h3>About me</h3>
+<p>Junior skilled and self-motivated PHP backend developer. Always seeking to work on my weaknesses to 
+become a professional in my field, fast learner and relatively nice person. Hoping to use my 
+background and experience to be a part of an organization that utilizes my experiences and skills to 
+achieve its goals.</p>
 
-<!--
-**SH1R3F/SH1R3F** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<h3>Contact me</h3>
+<ul>
+  <li>
+    <a href="mailto:sh1r3f@gmail.com" rel="nofollow">Sh1r3f@gmail.com</a>
+  </li>
+  <li>
+    <a href="https://www.linkedin.com/in/sh1r3f" rel="nofollow">Mahmoud Shiref (Linkedin)</a>
+  </li>  
+</ul>
