@@ -32,4 +32,8 @@ WordPress.</li>
   <li>
     <a href="https://www.linkedin.com/in/sh1r3f" rel="nofollow">Mahmoud Shiref (Linkedin)</a>
   </li>  
+  <li>
+    <a href="https://sh1r3f.davidlouis.co" rel="nofollow">My Portfolio</a>
+  </li>  
+  
 </ul>
